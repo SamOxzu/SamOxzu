@@ -2,14 +2,24 @@
   <img src="https://github.com/SamOxzu/SamOxzu/blob/main/header.gif?raw=true">
 </div>
 
+## <img src="https://github.com/SamOxzu/SamOxzu/blob/main/me.gif" width ="35"><b> About Me
+- 👨🏻‍🎓 I'm an Assistant Software Development Technician.
+- 🌆 I'm really into CyberPunk culture.
+- 👾 I've developed multiple educational games.
+- 💽 Listening to music is always my favorite activity.
 
+<br>
+
+## <img src="https://github.com/SamOxzu/SamOxzu/blob/main/stats.gif" width ="35"><b> Some GitHub Stats
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=SamOxzu&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamOxzu&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SamOxzu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false" height="150" alt="stats graph" />
+    <img src="https://streak-stats.demolab.com?user=SamOxzu&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamOxzu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamOxzu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
 
-###
+<br>
+
+## <img src="https://github.com/SamOxzu/SamOxzu/blob/main/tech.gif" width ="35"><b> Tech Skills and Contact
 <table align="center" style="border: none;">
   <tr>
     <td>
@@ -49,9 +59,9 @@
 </table>
 
 
+<br>
 
-
-###
+## <img src="https://github.com/SamOxzu/SamOxzu/blob/main/music.gif" width ="35"><b> What I've Been Listening To
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dxhxvystj4jgvdrtb7zmu4qxou" alt="Spotify Recently Played" />
