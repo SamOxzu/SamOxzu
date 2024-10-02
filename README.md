@@ -1,6 +1,7 @@
-<h2 align="left">¿Qué más?👋🏻🦊! Mi nombre es Oxzu, bienvenido a mi perfil.</h2>
+<div align="center">
+  <img src="https://github.com/SamOxzu/SamOxzu/blob/main/gif%20header.gif?raw=true">
+</div>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamOxzu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false" height="150" alt="stats graph" />
